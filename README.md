@@ -34,3 +34,11 @@ El algoritmo implementa una secuencia de pasos sencillos pero efectivos para mej
    - **Baja opacidad — Pulmones normales**
    - **Opacidad moderada — Revisión recomendada**
    - **Alta opacidad — Posible patología**
+
+## Archivos de entrada
+
+- Las imágenes de radiografías de tórax usadas en este proyecto se obtuvieron de:
+
+  [Kaggle Chest X-Ray Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+
+- Para reproducir el análisis, coloca las imágenes que quieras analizar dentro de la carpeta `/imagenes`.
